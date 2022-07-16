@@ -1,0 +1,43 @@
+@media (min-width: 720px){
+    body{
+        background-color: #D3D3D3;
+    }
+    
+    .titulo{
+        margin: 50px;
+    }
+    
+    .titulo2{
+        text-align: center;
+    }
+    
+    .titulo4{
+        margin-top: 75px;
+    }
+    
+    .perfil{
+        height: 150px;
+    }
+    
+    .image{
+        border-radius: 15px;
+        height: 75px;
+    }
+    
+    
+    .style{
+        text-align: center;
+        font-size: 18px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+        margin-bottom: 50px;
+    }
+    
+    .titulo3{
+        font-size: 24px;
+    }
+    
+    .cumple{
+        font-size: 18px;
+    }
+}
